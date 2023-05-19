@@ -6,7 +6,8 @@ Aplikacja typu publish-subscribe, gdzie klient łączy się z serwerem przy uży
 
 ## Design
 
-Aby otworzyć architecutre diagram należy skopiować zawartość pliku "Architecture diagram" i wkleić w pasek wyszukiwania przeglądarki.
+//Aby otworzyć architecutre diagram należy skopiować zawartość pliku "Architecture diagram" i wkleić w pasek wyszukiwania przeglądarki.
+Plik graf.png jest diagramem architektury projektu
 
 ## Opis wykorzystanego protokołu - TCP
 
